@@ -44,7 +44,14 @@ const routes = [
     name: "posttable",
     component: () => import("@/views/PostTable.vue"),
   },
-
+  {
+    meta: {
+      title: "Wallet",
+    },
+    path: "/wallettable",
+    name: "wallettable",
+    component: () => import("@/views/WalletTable.vue"),
+  },
   {
     meta: {
       title: "Profile",

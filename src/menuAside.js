@@ -22,7 +22,7 @@ export default [
     icon: mdiMonitor,
   },
   {
-    to: "/tables",
+    to: "/wallettable",
     label: "Wallet",
     icon: mdiTable,
   },
