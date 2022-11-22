@@ -5,7 +5,6 @@ import {
   mdiAccountMultiple,
   mdiCartOutline,
   mdiChartTimelineVariant,
-
   mdiReload,
   mdiChartPie,
 } from "@mdi/js";
